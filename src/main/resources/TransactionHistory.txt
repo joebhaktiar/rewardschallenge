@@ -1,0 +1,114 @@
+﻿[
+	  {
+	    "customerId": 1,
+	    "transactions": [
+	      {
+	        "transactionId": "1",
+	        "transactionDate": "2020-08-11T22:56:17.277+00:00",
+	        "transactionCost": 111,
+	        "transactionReward": 72
+	      },
+	      {
+	        "transactionId": "2",
+	        "transactionDate": "2021-08-11T22:56:25.066+00:00",
+	        "transactionCost": 120,
+	        "transactionReward": 90
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 2,
+	    "transactions": [
+	      {
+	        "transactionId": "3",
+	        "transactionDate": "2021-08-11T22:56:32.205+00:00",
+	        "transactionCost": 105,
+	        "transactionReward": 60
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 3,
+	    "transactions": [
+	      {
+	        "transactionId": "4",
+	        "transactionDate": "2020-08-11T22:57:50.006+00:00",
+	        "transactionCost": 75,
+	        "transactionReward": 50
+	      },
+	      {
+	        "transactionId": "5",
+	        "transactionDate": "2021-08-11T22:57:58.707+00:00",
+	        "transactionCost": 130,
+	        "transactionReward": 110
+	      },
+	      {
+	        "transactionId": "6",
+	        "transactionDate": "2021-08-11T22:58:03.434+00:00",
+	        "transactionCost": 140,
+	        "transactionReward": 130
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 4,
+	    "transactions": [
+	      {
+	        "transactionId": "7",
+	        "transactionDate": "2021-08-11T22:58:11.080+00:00",
+	        "transactionCost": 25,
+	        "transactionReward": 0
+	      },
+	      {
+	        "transactionId": "8",
+	        "transactionDate": "2021-08-11T22:58:23.335+00:00",
+	        "transactionCost": 250,
+	        "transactionReward": 350
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 5,
+	    "transactions": [
+	      {
+	        "transactionId": "9",
+	        "transactionDate": "2021-08-11T22:58:32.794+00:00",
+	        "transactionCost": 45,
+	        "transactionReward": 0
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 6,
+	    "transactions": [
+	      {
+	        "transactionId": "10",
+	        "transactionDate": "2021-08-11T22:58:42.297+00:00",
+	        "transactionCost": 60,
+	        "transactionReward": 50
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 9,
+	    "transactions": [
+	      {
+	        "transactionId": "11",
+	        "transactionDate": "2021-08-11T22:58:59.497+00:00",
+	        "transactionCost": 100,
+	        "transactionReward": 50
+	      }
+	    ]
+	  },
+	  {
+	    "customerId": 10,
+	    "transactions": [
+	      {
+	        "transactionId": "12",
+	        "transactionDate": "2021-08-11T22:59:06.070+00:00",
+	        "transactionCost": 145,
+	        "transactionReward": 140
+	      }
+	    ]
+	  }
+]
